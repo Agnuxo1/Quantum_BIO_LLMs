@@ -1,0 +1,9 @@
+transformers>=4.30.0
+torch>=2.0.0
+numpy>=1.21.0
+scipy>=1.9.0
+matplotlib>=3.5.0
+networkx>=2.8.0
+qiskit>=0.44.0
+tkinter
+pytest>=7.0.0

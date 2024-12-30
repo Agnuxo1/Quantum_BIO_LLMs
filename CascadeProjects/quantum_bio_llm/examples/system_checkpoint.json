@@ -1,0 +1,1550 @@
+{
+  "config": {
+    "n_qubits": 8,
+    "coherence_time": 100,
+    "layer_sizes": [
+      64,
+      32,
+      16
+    ],
+    "adaptation_rate": 0.01,
+    "num_memory_shards": 4,
+    "memory_dimensions": [
+      64,
+      64
+    ],
+    "memory_capacity": 10000
+  },
+  "initialization_time": "2024-12-30T17:47:19.195139",
+  "quantum_state": {
+    "n_qubits": 8,
+    "coherence_time": 100,
+    "state_vector": [
+      {
+        "real": 1.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      },
+      {
+        "real": 0.0,
+        "imag": 0.0
+      }
+    ],
+    "current_coherence": 1.0,
+    "history": {
+      "gates": [],
+      "measurements": [],
+      "evolution": [
+        {
+          "timestamp": "2024-12-30T17:47:19.196466",
+          "input_norm": 7.524120100212296,
+          "state_norm": 0.9999999999999999,
+          "coherence": 1.0
+        },
+        {
+          "timestamp": "2024-12-30T17:47:19.201586",
+          "input_norm": 7.554304898233131,
+          "state_norm": 1.0000000000000002,
+          "coherence": 1.0
+        }
+      ]
+    },
+    "last_update": null
+  },
+  "neural_state": {
+    "architecture": {
+      "layer_sizes": [
+        64,
+        32,
+        16
+      ],
+      "adaptation_rate": 0.01,
+      "total_parameters": 2656
+    },
+    "layer_states": [
+      {
+        "layer_info": {
+          "input_dim": 64,
+          "output_dim": 32,
+          "adaptation_rate": 0.01
+        },
+        "weights": {
+          "mean": -0.0004746917402371764,
+          "std": 0.12346349656581879,
+          "shape": [
+            64,
+            32
+          ]
+        },
+        "plasticity": {
+          "size": 32,
+          "learning_rate": 0.01,
+          "current_plasticity": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "adaptation_history": [],
+          "last_update": null
+        },
+        "bacterial_memory": {
+          "current": [
+            0.014425216242671013,
+            -0.0011131485225632787,
+            0.008764989674091339,
+            -0.014662855304777622,
+            0.009076163172721863,
+            -0.01804700307548046,
+            0.012152927927672863,
+            0.017768528312444687,
+            0.014264176599681377,
+            0.007054922636598349,
+            -0.013362851925194263,
+            0.004493546672165394,
+            0.01457770075649023,
+            -0.0037332007195800543,
+            0.00961146131157875,
+            -0.004713898524641991,
+            0.018339399248361588,
+            -0.018844641745090485,
+            0.019425207749009132,
+            -0.009057799354195595,
+            0.0018191705457866192,
+            -0.013456008397042751,
+            0.016157206147909164,
+            -0.019008800387382507,
+            0.01909063756465912,
+            -0.006725733168423176,
+            -0.015875520184636116,
+            0.010017876513302326,
+            0.017639558762311935,
+            -0.008701234124600887,
+            0.0036467197351157665,
+            0.0065704649314284325
+          ],
+          "decay_rate": 0.99,
+          "history": [
+            {
+              "timestamp": "2024-12-30T17:47:19.198003",
+              "mean_memory": 0.001192749128676951,
+              "max_memory": 0.009787705726921558
+            },
+            {
+              "timestamp": "2024-12-30T17:47:19.201586",
+              "mean_memory": 0.002424787264317274,
+              "max_memory": 0.019425207749009132
+            }
+          ]
+        },
+        "adaptation_history": {
+          "activity": [
+            {
+              "timestamp": "2024-12-30T17:47:19.198003",
+              "mean_activity": 0.11927492171525955,
+              "max_activity": 0.9787706136703491
+            },
+            {
+              "timestamp": "2024-12-30T17:47:19.201586",
+              "mean_activity": 0.12439649552106857,
+              "max_activity": 0.9735379219055176
+            }
+          ],
+          "weight_changes": [],
+          "plasticity": []
+        },
+        "performance": {
+          "forward_passes": 2,
+          "adaptations": 0,
+          "total_activity": 1.168968677520752,
+          "peak_activity": 0.9787706136703491
+        }
+      },
+      {
+        "layer_info": {
+          "input_dim": 32,
+          "output_dim": 16,
+          "adaptation_rate": 0.01
+        },
+        "weights": {
+          "mean": 0.004289550241082907,
+          "std": 0.18731045722961426,
+          "shape": [
+            32,
+            16
+          ]
+        },
+        "plasticity": {
+          "size": 16,
+          "learning_rate": 0.01,
+          "current_plasticity": [
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0,
+            1.0
+          ],
+          "adaptation_history": [],
+          "last_update": null
+        },
+        "bacterial_memory": {
+          "current": [
+            0.006743528880178928,
+            -0.010935699567198753,
+            0.007157185114920139,
+            0.0031221918761730194,
+            -0.006470168009400368,
+            0.009548479691147804,
+            -0.015999536961317062,
+            0.01625344343483448,
+            0.0005231786053627729,
+            -0.000280882726656273,
+            -0.015869634225964546,
+            0.004035900812596083,
+            0.003570444416254759,
+            0.00030453543877229095,
+            0.007726460229605436,
+            -0.003540592733770609
+          ],
+          "decay_rate": 0.99,
+          "history": [
+            {
+              "timestamp": "2024-12-30T17:47:19.198003",
+              "mean_memory": 0.00014531664783135056,
+              "max_memory": 0.008127003908157349
+            },
+            {
+              "timestamp": "2024-12-30T17:47:19.202095",
+              "mean_memory": 0.0003680521622300148,
+              "max_memory": 0.01625344343483448
+            }
+          ]
+        },
+        "adaptation_history": {
+          "activity": [
+            {
+              "timestamp": "2024-12-30T17:47:19.198515",
+              "mean_activity": 0.014531664550304413,
+              "max_activity": 0.8127004504203796
+            },
+            {
+              "timestamp": "2024-12-30T17:47:19.202095",
+              "mean_activity": 0.022418860346078873,
+              "max_activity": 0.8207709789276123
+            }
+          ],
+          "weight_changes": [],
+          "plasticity": []
+        },
+        "performance": {
+          "forward_passes": 2,
+          "adaptations": 0,
+          "total_activity": 0.7078955173492432,
+          "peak_activity": 0.8207709789276123
+        }
+      }
+    ],
+    "network_metrics": {
+      "created_at": "2024-12-30T17:47:19.195139",
+      "forward_passes": 2,
+      "total_adaptations": 0,
+      "layer_performances": [],
+      "mean_network_plasticity": 1.0,
+      "last_update": "2024-12-30T17:47:19.205155"
+    },
+    "performance_summary": {
+      "total_forward_passes": 2,
+      "total_adaptations": 0,
+      "mean_layer_activity": 0.4692160487174988
+    }
+  },
+  "memory_state": {
+    "num_patterns": 1,
+    "num_shards": 4,
+    "dimensions": [
+      64,
+      64
+    ],
+    "total_interference_patterns": 4,
+    "mean_interference_strength": 13.701726913452148,
+    "retrieval_history": [
+      {
+        "timestamp": "2024-12-30T17:47:19.201077",
+        "num_results": 4,
+        "max_similarity": -0.09201412152125221,
+        "mean_quality": 8.495351791381836,
+        "query_shape": [
+          64
+        ]
+      },
+      {
+        "timestamp": "2024-12-30T17:47:19.203119",
+        "num_results": 4,
+        "max_similarity": -0.0936098433855313,
+        "mean_quality": 8.18474006652832,
+        "query_shape": [
+          64
+        ]
+      }
+    ],
+    "last_update": "2024-12-30T17:47:19.205664"
+  },
+  "system_metrics": {
+    "quantum_circuit_depth": 0,
+    "neural_network_size": 2656,
+    "memory_usage": 0.125,
+    "detailed_metrics": {
+      "quantum": {
+        "quantum_circuit_depth": 0,
+        "coherence": 1.0,
+        "num_qubits": 8
+      },
+      "neural": {
+        "neural_network_size": 2656,
+        "layer_sizes": [
+          64,
+          32,
+          16
+        ],
+        "adaptation_rate": 0.01
+      },
+      "memory": {
+        "num_patterns": 1,
+        "num_shards": 4,
+        "dimensions": [
+          64,
+          64
+        ],
+        "total_interference_patterns": 4,
+        "mean_interference_strength": 13.701726913452148,
+        "retrieval_history": [
+          {
+            "timestamp": "2024-12-30T17:47:19.201077",
+            "num_results": 4,
+            "max_similarity": -0.09201412152125221,
+            "mean_quality": 8.495351791381836,
+            "query_shape": [
+              64
+            ]
+          },
+          {
+            "timestamp": "2024-12-30T17:47:19.203119",
+            "num_results": 4,
+            "max_similarity": -0.0936098433855313,
+            "mean_quality": 8.18474006652832,
+            "query_shape": [
+              64
+            ]
+          }
+        ],
+        "last_update": "2024-12-30T17:47:19.205664"
+      },
+      "system_state": {
+        "timestamp": "2024-12-30T17:47:19.205664",
+        "components_status": {
+          "quantum": {
+            "status": "active",
+            "type": "ndarray",
+            "shape": [
+              256
+            ]
+          },
+          "neural": {
+            "status": "active",
+            "type": "Tensor",
+            "shape": [
+              16
+            ]
+          },
+          "memory": {
+            "status": "active",
+            "type": "dict",
+            "keys": [
+              "num_patterns",
+              "num_shards",
+              "dimensions",
+              "total_interference_patterns",
+              "mean_interference_strength",
+              "retrieval_history",
+              "last_update"
+            ]
+          }
+        },
+        "metrics": {
+          "uptime_seconds": 0.010525,
+          "total_updates": 2,
+          "total_adaptations": 0,
+          "last_changes": [
+            {
+              "timestamp": "2024-12-30T17:47:19.201077",
+              "components_updated": [
+                "quantum_state",
+                "neural_state",
+                "memory_state"
+              ]
+            },
+            {
+              "timestamp": "2024-12-30T17:47:19.203119",
+              "components_updated": [
+                "quantum_state",
+                "neural_state",
+                "memory_state"
+              ]
+            }
+          ]
+        },
+        "history_summary": {
+          "total_events": 2,
+          "last_event": {
+            "timestamp": "2024-12-30T17:47:19.203119",
+            "type": "state_update",
+            "components": [
+              "quantum_state",
+              "neural_state",
+              "memory_state"
+            ],
+            "metrics": {
+              "uptime_seconds": 0.00798,
+              "total_updates": 2,
+              "total_adaptations": 0,
+              "last_changes": [
+                {
+                  "timestamp": "2024-12-30T17:47:19.201077",
+                  "components_updated": [
+                    "quantum_state",
+                    "neural_state",
+                    "memory_state"
+                  ]
+                },
+                {
+                  "timestamp": "2024-12-30T17:47:19.203119",
+                  "components_updated": [
+                    "quantum_state",
+                    "neural_state",
+                    "memory_state"
+                  ]
+                }
+              ]
+            }
+          },
+          "event_types": {
+            "state_update": 2
+          },
+          "recent_events": [
+            {
+              "timestamp": "2024-12-30T17:47:19.201077",
+              "type": "state_update",
+              "components": [
+                "quantum_state",
+                "neural_state",
+                "memory_state"
+              ],
+              "metrics": {
+                "uptime_seconds": 0.005938,
+                "total_updates": 1,
+                "total_adaptations": 0,
+                "last_changes": [
+                  {
+                    "timestamp": "2024-12-30T17:47:19.201077",
+                    "components_updated": [
+                      "quantum_state",
+                      "neural_state",
+                      "memory_state"
+                    ]
+                  }
+                ]
+              }
+            },
+            {
+              "timestamp": "2024-12-30T17:47:19.203119",
+              "type": "state_update",
+              "components": [
+                "quantum_state",
+                "neural_state",
+                "memory_state"
+              ],
+              "metrics": {
+                "uptime_seconds": 0.00798,
+                "total_updates": 2,
+                "total_adaptations": 0,
+                "last_changes": [
+                  {
+                    "timestamp": "2024-12-30T17:47:19.201077",
+                    "components_updated": [
+                      "quantum_state",
+                      "neural_state",
+                      "memory_state"
+                    ]
+                  },
+                  {
+                    "timestamp": "2024-12-30T17:47:19.203119",
+                    "components_updated": [
+                      "quantum_state",
+                      "neural_state",
+                      "memory_state"
+                    ]
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  },
+  "timestamp": "2024-12-30T17:47:19.205664"
+}
