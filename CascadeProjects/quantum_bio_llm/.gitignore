@@ -3,3 +3,8 @@ venv/
 *.lib 
 __pycache__/ 
 *.pyc 
+*.egg-info/
+*.egg
+*.whl
+*.exe
+*.log
