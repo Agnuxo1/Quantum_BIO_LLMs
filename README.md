@@ -1,6 +1,8 @@
 # Quantum-BIO-LLM
 ## Bioinspired Quantum Optimization System for LLMs
 
+Francisco Angulo de Lafuente
+
 ### Description
 
 The Quantum-BIO-LLM project aims to enhance the efficiency of Large Language Models (LLMs) both in training and utilization. By leveraging advanced techniques from ray tracing, optical physics, and, most importantly, quantum physics, we strive to improve the overall efficiency of the system.
