@@ -3,7 +3,7 @@
 
 Francisco Angulo de Lafuente
 
-### DEMOS: https://stackblitz.com/edit/github-kskekmk1-futzoalb?file=README.md
+### DEMO: https://stackblitz.com/edit/github-kskekmk1-futzoalb?file=README.md
 
 ### Description
 
